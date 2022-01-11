@@ -1,6 +1,6 @@
 ### Hi 😄 - 
-# README 테스트중
-
+# README 테스트 중
+## 인공지능 공부하는 중입니다.
 <!--
 **hyeon9698/hyeon9698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
