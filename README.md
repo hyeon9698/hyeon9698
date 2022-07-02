@@ -1,5 +1,6 @@
 ### Hi 😄 - 
 ## 인공지능 공부하는 중입니다.
+## 컴퓨터 비전에 관심이 많습니다.
 <!--
 **hyeon9698/hyeon9698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
