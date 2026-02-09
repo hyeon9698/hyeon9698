@@ -4,8 +4,7 @@ AI와 스타트업을 좋아하는 사람입니다.
 
 AI와 스타트업 관련 대화를 나누는 커피챗 좋아합니다. 이메일 또는 링크드인으로 연락주세요!
 
-
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/donghyeoncho0509/](https://www.linkedin.com/in/donghyeoncho0509/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donghyeoncho0509/)
 
 **LinkedIn: [https://www.linkedin.com/in/donghyeoncho0509/](https://www.linkedin.com/in/donghyeoncho0509/)**
 
